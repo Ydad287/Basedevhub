@@ -6,3 +6,4 @@ Add quick start guide
 Improve smart contract readability
 Update README with new section
 Add notes for Base deployment
+Improve overall documentation quality
