@@ -2,3 +2,4 @@
  Add additional explanation comments
 Update file structure organization
  Enhance project overview clarity
+Add quick start guide
