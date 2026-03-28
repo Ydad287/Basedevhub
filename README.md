@@ -13,3 +13,4 @@ Add explanation for variables
  Update comments for better clarity
 Add section for future improvements
 Enhance formatting of documentation
+Improve readability of README file
