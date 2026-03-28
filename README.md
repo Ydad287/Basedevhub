@@ -12,3 +12,4 @@ Add explanation for variables
  Improve contract naming consistency
  Update comments for better clarity
 Add section for future improvements
+Enhance formatting of documentation
