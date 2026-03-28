@@ -8,3 +8,4 @@ Update README with new section
 Add notes for Base deployment
 Improve overall documentation quality
  Refactor minor code segments
+Add explanation for variables
