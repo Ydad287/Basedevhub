@@ -10,3 +10,4 @@ Improve overall documentation quality
  Refactor minor code segments
 Add explanation for variables
  Improve contract naming consistency
+ Update comments for better clarity
