@@ -16,3 +16,4 @@ Enhance formatting of documentation
 Improve readability of README file
 Update project documentation details
 Add minor improvements to contract
+Refine overall project presentation
