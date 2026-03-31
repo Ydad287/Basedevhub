@@ -18,3 +18,4 @@ Update project documentation details
 Add minor improvements to contract
 Refine overall project presentation
 Finalize documentation improvements
+Improved file structure a bit
